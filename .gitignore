@@ -1,0 +1,12 @@
+# Ignore data directory
+chesscog/data/
+
+# Ignore virtual environment
+chesscog/.venv/
+
+# Ignore Python bytecode
+__pycache__/
+**/__pycache__/
+
+# Ignore models directory
+chesscog/models/
